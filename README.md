@@ -103,7 +103,6 @@ I'm a final-year **B.Tech Information Technology student** passionate about full
 </div>
 ---
 
-
 ## 🚀 Featured Projects
 
 <div align="center">
@@ -174,16 +173,63 @@ A movie discovery platform built around finding movies, exploring recommendation
 </div>
 
 <br>
+---
+
+## ⚡ Development Snapshot
 
 <div align="center">
 
-> 🚧 **More projects coming soon...**
->
-> Portfolio CMS · Local Services Finder
+<table>
+<tr>
+
+<td align="center" width="25%">
+
+### 📦
+**12**
+
+Repositories
+
+</td>
+
+<td align="center" width="25%">
+
+### 🔀
+**2**
+
+Pull Requests
+
+</td>
+
+<td align="center" width="25%">
+
+### ⭐
+**0**
+
+Stars
+
+</td>
+
+<td align="center" width="25%">
+
+### 🐛
+**0**
+
+Issues
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
----
+<br>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shifana0105&theme=tokyonight" width="95%"/>
+
+</div>
 
 ## 🧠 Current Focus
 
