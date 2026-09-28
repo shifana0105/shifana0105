@@ -106,59 +106,82 @@ I'm a final-year **B.Tech Information Technology student** passionate about full
 
 ## 🚀 Featured Projects
 
+<div align="center">
+
 <table>
 <tr>
-<td width="50%">
 
-### 🖥️ Portfolio CMS
-
-A full-stack content management system designed to manage and showcase developer portfolios through a modern web interface.
-
-**Stack**
-
-`React` `Spring Boot` `MySQL`
-
-</td>
-
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🥗 NutriScan AI
 
-A mobile application focused on food-label scanning, OCR-based information extraction and personalized nutrition analysis.
+AI-powered food label analysis application designed to help users understand packaged-food information through OCR and personalized analysis.
 
-**Stack**
+**Tech Stack**
 
-`React Native` `OCR` `MongoDB`
+`React Native` `JavaScript` `Python` `OCR` `MongoDB`
+
+**Features**
+
+- 📷 Food-label scanning
+- 🔍 OCR-based text extraction
+- ⚠️ Allergen identification
+- 📊 Nutrition analysis
+- 🧠 Personalized food insights
+
+<br>
+
+<a href="https://github.com/shifana0105/AI_Food_Label">
+<img src="https://img.shields.io/badge/Frontend-Repository-8B5CF6?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://github.com/shifana0105/AI_Food_Label_OCR_Backend">
+<img src="https://img.shields.io/badge/OCR%20Backend-Repository-A78BFA?style=for-the-badge&logo=github"/>
+</a>
 
 </td>
-</tr>
 
-<tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🎬 Movie Discovery & Watch Party
 
-A movie discovery application with recommendations, watchlists and collaborative watch-party functionality.
+A movie discovery platform built around finding movies, exploring recommendations and organizing watch parties with friends.
 
-**Stack**
+**Tech Stack**
 
-`React` `JavaScript` `TMDb API`
+`JavaScript` `React` `TMDb API`
+
+**Features**
+
+- 🎥 Movie discovery
+- 🔎 Search
+- ⭐ Watchlist
+- 🤝 Watch parties
+- 🎯 Recommendations
+- 🎬 TMDb integration
+
+<br>
+
+<a href="https://github.com/shifana0105/MovieDis">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
+</a>
 
 </td>
 
-<td width="50%">
-
-### 📍 Local Services Finder
-
-A platform designed to help users discover and interact with local services through a structured web application.
-
-**Stack**
-
-`Spring Boot` `MySQL` `Swagger`
-
-</td>
 </tr>
 </table>
+
+</div>
+
+<br>
+
+<div align="center">
+
+> 🚧 **More projects coming soon...**
+>
+> Portfolio CMS · Local Services Finder
+
+</div>
 
 ---
 
