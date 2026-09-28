@@ -73,13 +73,14 @@ I'm a final-year **B.Tech Information Technology student** passionate about full
 
 ---
 
+
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=shifana0105&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=shifana0105&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true&count_private=true" height="180"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shifana0105&layout=compact&hide_border=true&theme=tokyonight" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shifana0105&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" height="180"/>
 
 </div>
 
@@ -87,21 +88,11 @@ I'm a final-year **B.Tech Information Technology student** passionate about full
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=shifana0105&theme=tokyonight&hide_border=true" width="70%"/>
+<img src="https://streak-stats.demolab.com?user=shifana0105&theme=tokyonight&hide_border=true" width="75%"/>
 
 </div>
-
 ---
 
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shifana0105&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
-
-</div>
-
----
 
 ## 🚀 Featured Projects
 
