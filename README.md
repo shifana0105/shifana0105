@@ -78,9 +78,19 @@ I'm a final-year **B.Tech Information Technology student** passionate about full
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=shifana0105&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true&count_private=true" height="180"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shifana0105&theme=tokyonight" width="49%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shifana0105&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" height="180"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shifana0105&theme=tokyonight" width="49%"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shifana0105&theme=tokyonight" width="49%"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shifana0105&theme=tokyonight&utcOffset=5.5" width="49%"/>
 
 </div>
 
