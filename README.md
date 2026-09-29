@@ -346,22 +346,61 @@ Learning scalable architecture, application structure and engineering fundamenta
 
 ## 💫 What I'm Building
 
-```text
-┌──────────────────────────────────────────────────────┐
-│                                                      │
-│   BUILD        →        LEARN        →       IMPROVE │
-│                                                      │
-│   Real-world        New technologies       Better    │
-│   applications      DSA / Backend          software  │
-│                                                      │
-└──────────────────────────────────────────────────────┘
-```
+<table>
+<tr>
 
-I'm focused on moving beyond simple academic projects and building applications that demonstrate **problem solving, engineering fundamentals, clean architecture and practical development skills**.
+<td width="33%" align="center" valign="top">
 
----
+### 🏗️ BUILD
+
+**Real-World Applications**
+
+Building full-stack applications that solve practical problems rather than simple academic CRUD projects.
+
+<br>
+
+`React` `Spring Boot` `MySQL`
+
+</td>
+
+<td width="33%" align="center" valign="top">
+
+### 🧠 LEARN
+
+**Engineering Fundamentals**
+
+Deepening my understanding of Java, DSA, backend development, databases and system design.
+
+<br>
+
+`Java` `DSA` `SQL`
+
+</td>
+
+<td width="33%" align="center" valign="top">
+
+### 🚀 IMPROVE
+
+**Better Software**
+
+Focusing on clean architecture, maintainable code, thoughtful UI/UX and practical engineering decisions.
+
+<br>
+
+`Architecture` `APIs` `Problem Solving`
+
+</td>
+
+</tr>
+</table>
+
+<br>
 
 <div align="center">
+
+**From ideas → to systems → to better software.**
+
+</div>
 
 ### 🌱 Building. Learning. Improving. One commit at a time.
 
