@@ -233,51 +233,65 @@ Issues
 
 ## 🧠 Currently Learning
 
-<div align="center">
-
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-### ☕ Java & DSA
+<h3>☕ Java & DSA</h3>
 
-```text
-████████████████░░░░
+<code>████████████████░░░░</code>
 
 Strengthening problem-solving, algorithms and data structures using Java.
 
-<br>
-🌱 Spring Boot
-███████████████░░░░░
+<br><br>
+
+<h3>🌱 Spring Boot</h3>
+
+<code>███████████████░░░░░</code>
 
 Building REST APIs, backend services and production-oriented applications.
 
-<br>
-⚙️ Backend Engineering
-██████████████░░░░░░
+<br><br>
+
+<h3>⚙️ Backend Engineering</h3>
+
+<code>██████████████░░░░░░</code>
 
 Improving API design, databases, authentication and application architecture.
 
-</td> <td width="50%" valign="top">
-⚛️ React
-███████████████░░░░░
+</td>
+
+<td width="50%" valign="top">
+
+<h3>⚛️ React</h3>
+
+<code>███████████████░░░░░</code>
 
 Building responsive and component-driven interfaces.
 
-<br>
-🗄️ SQL & Databases
-███████████████░░░░░
+<br><br>
+
+<h3>🗄️ SQL & Databases</h3>
+
+<code>███████████████░░░░░</code>
 
 Working with relational databases, queries and backend data management.
 
-<br>
-🏗️ System Design
-████████░░░░░░░░░░░░
+<br><br>
+
+<h3>🏗️ System Design</h3>
+
+<code>████████░░░░░░░░░░░░</code>
 
 Learning scalable architecture, application structure and engineering fundamentals.
 
-</td> </tr> </table> </div>
+</td>
+
+</tr>
+</table>
+
+> 🌱 These bars represent my **current learning focus**, not formal skill ratings.
 
 
 ## 🏆 GitHub Journey
