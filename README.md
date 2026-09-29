@@ -73,7 +73,6 @@ I'm a final-year **B.Tech Information Technology student** passionate about full
 
 ---
 
-
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -90,8 +89,6 @@ I'm a final-year **B.Tech Information Technology student** passionate about full
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shifana0105&theme=tokyonight" width="49%"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shifana0105&theme=tokyonight&utcOffset=5.5" width="49%"/>
-
 </div>
 
 <br>
@@ -101,6 +98,7 @@ I'm a final-year **B.Tech Information Technology student** passionate about full
 <img src="https://streak-stats.demolab.com?user=shifana0105&theme=tokyonight&hide_border=true" width="75%"/>
 
 </div>
+
 ---
 
 ## 🚀 Featured Projects
@@ -173,6 +171,7 @@ A movie discovery platform built around finding movies, exploring recommendation
 </div>
 
 <br>
+
 ---
 
 ## ⚡ Development Snapshot
@@ -230,6 +229,8 @@ Issues
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shifana0105&theme=tokyonight" width="95%"/>
 
 </div>
+
+---
 
 ## 🧠 Currently Learning
 
@@ -293,6 +294,7 @@ Learning scalable architecture, application structure and engineering fundamenta
 
 > 🌱 These bars represent my **current learning focus**, not formal skill ratings.
 
+---
 
 ## 🏆 GitHub Journey
 
@@ -336,13 +338,7 @@ Learning scalable architecture, application structure and engineering fundamenta
 
 </div>
 
-<br>
-
-<div align="center">
-
-**Building → Learning → Collaborating → Improving**
-
-</div>
+---
 
 ## 💫 What I'm Building
 
@@ -396,9 +392,7 @@ Focusing on clean architecture, maintainable code, thoughtful UI/UX and practica
 
 <br>
 
-<div align="center">
-
-<br>
+---
 
 <div align="center">
 
