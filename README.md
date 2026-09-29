@@ -231,20 +231,54 @@ Issues
 
 </div>
 
-## 🧠 Current Focus
+## 🧠 Currently Learning
+
+<div align="center">
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### ☕ Java & DSA
 
 ```text
-Java & DSA              ███████████████░░░░░
-Spring Boot             ████████████████░░░░
-Backend Development     ██████████████░░░░░░
-React & Frontend        ███████████████░░░░░
-SQL & Database          ███████████████░░░░░
-System Design           ████████░░░░░░░░░░░░
-```
+████████████████░░░░
 
-> The progress bars above are a visual representation of my current learning focus, not measured proficiency scores.
+Strengthening problem-solving, algorithms and data structures using Java.
 
----
+<br>
+🌱 Spring Boot
+███████████████░░░░░
+
+Building REST APIs, backend services and production-oriented applications.
+
+<br>
+⚙️ Backend Engineering
+██████████████░░░░░░
+
+Improving API design, databases, authentication and application architecture.
+
+</td> <td width="50%" valign="top">
+⚛️ React
+███████████████░░░░░
+
+Building responsive and component-driven interfaces.
+
+<br>
+🗄️ SQL & Databases
+███████████████░░░░░
+
+Working with relational databases, queries and backend data management.
+
+<br>
+🏗️ System Design
+████████░░░░░░░░░░░░
+
+Learning scalable architecture, application structure and engineering fundamentals.
+
+</td> </tr> </table> </div>
+
 
 ## 🏆 GitHub Journey
 
