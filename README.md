@@ -298,15 +298,51 @@ Learning scalable architecture, application structure and engineering fundamenta
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=shifana0105\&style=for-the-badge\&color=8b5cf6)
+<table>
+<tr>
 
-![GitHub followers](https://img.shields.io/github/followers/shifana0105?style=for-the-badge\&logo=github\&label=Followers)
+<td align="center" width="33%">
 
-![GitHub stars](https://img.shields.io/github/stars/shifana0105?style=for-the-badge\&logo=github\&label=Stars)
+<img src="https://komarev.com/ghpvc/?username=shifana0105&style=for-the-badge&color=8b5cf6&label=PROFILE+VIEWS"/>
+
+<br><br>
+
+👀 **Profile Visitors**
+
+</td>
+
+<td align="center" width="33%">
+
+<img src="https://img.shields.io/github/followers/shifana0105?style=for-the-badge&logo=github&label=FOLLOWERS"/>
+
+<br><br>
+
+🤝 **Developer Network**
+
+</td>
+
+<td align="center" width="33%">
+
+<img src="https://img.shields.io/github/stars/shifana0105?style=for-the-badge&logo=github&label=STARS"/>
+
+<br><br>
+
+⭐ **Repository Stars**
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
----
+<br>
+
+<div align="center">
+
+**Building → Learning → Collaborating → Improving**
+
+</div>
 
 ## 💫 What I'm Building
 
