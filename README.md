@@ -12,7 +12,7 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 &nbsp;
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/shifana-sherin-s-56986b294/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
@@ -57,7 +57,6 @@ I'm a final-year **B.Tech Information Technology student** passionate about full
 
 ![Spring Boot](https://skillicons.dev/icons?i=spring)
 ![React](https://skillicons.dev/icons?i=react)
-![React Native](https://skillicons.dev/icons?i=react)
 ![Node.js](https://skillicons.dev/icons?i=nodejs)
 
 ### Databases & Tools
