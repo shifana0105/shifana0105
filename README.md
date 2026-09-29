@@ -398,11 +398,13 @@ Focusing on clean architecture, maintainable code, thoughtful UI/UX and practica
 
 <div align="center">
 
-**From ideas → to systems → to better software.**
+<br>
 
-</div>
+<div align="center">
 
-### 🌱 Building. Learning. Improving. One commit at a time.
+### 🌱 Building. Learning. Improving.
+
+**Turning ideas into practical software, one project at a time.**
 
 <br>
 
